@@ -1,0 +1,31 @@
+_repo: Our-Calendar_36197
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36197-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Packer, George Nichols
+    gutenberg_agent_id: '38131'
+    url: http://www.gutenberg.org/2009/agents/38131
+description: ''
+gutenberg_issued: '2011-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36197'
+  lccn: '07006054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Calendar'
+- !lcsh 'Jewish calendar'
+- !lcc 'CE'
+title: "Our Calendar\r\nThe Julian calendar and its errors. How corrected by the Gregorian.\
+  \ Rules for finding the dominical letter, and the day of the week of any event from\
+  \ the days of Julius Caesar 46 B.C. to the year of our Lord four thousand; a new\
+  \ and easy method of fixing the date of Easter. Hebrew calendar; showing the correspondence\
+  \ in the date of events recorded in the Bible with our present Gregorian calendar.\
+  \ Illustrated by valuable tables and charts."
+url: http://www.gutenberg.org/ebooks/36197
